@@ -1,5 +1,5 @@
 # CHATBOT-Using-Natural-Language-Processing-and-Tensorflow
-in this jupyternotebook, We are going to Build a Chatbot that Understands the Context of Sentense and Respond accordingly. These are the Things that we are going to do in this project -
+in this Jupyter Notebook, We are going to Build a Chatbot that Understands the Context of Sentense and Respond accordingly. These are the Things that we are going to do in this project -
 
 1. Transforming the Conversational Intents into Tensorflow model (Neural Network using TFLEARN) using NLP and Save it as Pickle also. 
 
